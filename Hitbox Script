@@ -1,4 +1,4 @@
---[[
+w--[[
 
 Open source
 Made by !vcsk0#1516
@@ -45,10 +45,10 @@ Toggle.Parent = ToggleGui
 Toggle.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Toggle.BackgroundTransparency = 1
 Toggle.Position = UDim2.new(0, 0, 0.454706937, 0)
-Toggle.Size = UDim2.new(0.0650164187, 0, 0.0888099447, 0)
+Toggle.Size = UDim2.new(0)
 Toggle.Font = Enum.Font.SourceSans
 Toggle.Text = "."
-Toggle.TextScaled = true
+Toggle.TextScaled = false
 Toggle.TextColor3 = Color3.fromRGB(40, 40, 40)
 Toggle.TextSize = 0.001
 Toggle.TextXAlignment = Enum.TextXAlignment.Left
