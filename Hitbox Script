@@ -123,7 +123,7 @@ HomeTab:Toggle("Team Check", function(state)
     getgenv().TeamCheck = state
 end)
 
-HomeTab:Keybind("Toggle UI", Enum.KeyCode.F, function()
+HomeTab:Keybind("Toggle UI", Enum.KeyCode.X, function()
     Library:ToggleUI()
 end)
 
